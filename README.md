@@ -32,13 +32,14 @@ This is a web based application developed for .......
 ![Screenshot (9)](https://user-images.githubusercontent.com/116707652/204745555-1e00fb54-0835-4e80-9cce-11f68a5c5495.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/116707652/204745581-8c916e18-ec7a-4901-830c-c518cf64e14d.png)
 ![Screenshot (20)](https://user-images.githubusercontent.com/116707652/204745612-c06ef75d-870b-438f-8847-3085d68b226c.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/116707652/204748176-61c8375b-479b-4520-9bbc-183bab6c872f.png)
 
 ## Primary Azure Technology used
 1. Microsoft Azure Portal
 ![Screenshot (1)](https://user-images.githubusercontent.com/116707652/204745703-f7f7d55a-93b6-4fdf-9c1f-d409538fb009.png)
 
 2. App Service and Web Apps
-![Uploading Screenshot (2).png…]()
+![Screenshot (2)](https://user-images.githubusercontent.com/116707652/204748273-dc8bd7ab-a52a-4dfe-8c53-0adfce3e9b3d.png)
 
 ## Tech Stack
 - Microsoft Azure
