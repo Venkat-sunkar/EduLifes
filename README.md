@@ -5,7 +5,7 @@ This is a web based application developed for .......
 ### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* -https://...........azurewebsites.net
+*Project Link* -https://edulifes.azurewebsites.net
 
 ## Features and Functionalities 😃
 
